@@ -7,7 +7,7 @@ Senior Software engineer currently working with Flutter:
 
 - 📫 How to reach me **jshah200498@gmail.com**
 
-- ⚡ Fun fact **I love travel and go to the GYM very often.**
+- ⚡ Fun fact **I love travel and you can find me binging series on weekend.**
  
 
 # 💻Tech Stack
