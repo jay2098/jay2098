@@ -1,7 +1,7 @@
 # 🙋‍♂️ About Me : 
-Software developer currently working with Flutter:
+Senior Software engineer currently working with Flutter:
 
-- 🔭 I’m currently working as **Flutter Developer** at Codetrade India Pvt. Ltd.
+- 🔭 I’m currently working as **Flutter Developer** at Coditas, Pune.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
